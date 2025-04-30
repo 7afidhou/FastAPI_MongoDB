@@ -17,7 +17,7 @@ This is a simple FastAPI project that connects to MongoDB using the async `motor
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/fastapi-mongo-example.git
+git clone https://github.com/7afidhou/FastAPI_MongoDB.git
 cd fastapi-mongo-example
 ```
 
